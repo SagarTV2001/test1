@@ -17,9 +17,3 @@ int div(int a, int b)
 {
     return a / b;
 }
-int div222(int a, int b)
-{
-    return a / b;
-}
-
-
