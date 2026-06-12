@@ -26,5 +26,5 @@ void test_mul(void)
 
 void test_div(void)
 {
-    TEST_ASSERT_EQUAL(5, div(15,3));
+    TEST_ASSERT_EQUAL(5, divide(15,3));
 }
